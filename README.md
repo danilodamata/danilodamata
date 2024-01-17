@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danilodamata.
-- 🌱 I’m currently learning IT at Soli Deo Gloria Project.
+- 🌱 I started in the IT world at Soli Deo Gloria Project and now I'm a student in Oracle Next Education program.
 - 📫 How to reach me: danilusdamata@gmail.com
 
 <!---
